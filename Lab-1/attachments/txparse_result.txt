@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "segwit": true,
+  "vin": [
+    {
+      "txid": "c8887df396045d8fdee1e551fabfe2ab3e0b907c8f2ee2d5469d5c103c531039",
+      "vout": 0,
+      "scriptSig": "",
+      "sequence": 4294967293,
+      "txinwitness": [
+        "3044022069e10cac88928f9eddcc9044869498613c28b3381f2f7f78f5271c53606236000220277dbeff87be0d03f0af083d2ca1c6a86eeef26ca0a5d576b678385ee289135701",
+        "036567d9953163c93d55a8d9ead08c4beacf017a5463d1cc336120b120ac90e88b"
+      ]
+    }
+  ],
+  "vout": [
+    {
+      "value_satoshi": 131569,
+      "scriptPubKey": "0014c691eda4ba109a44a0da4894f5210f8fcc888a61"
+    },
+    {
+      "value_satoshi": 10000,
+      "scriptPubKey": "0014aa83ecc780e4295498592a15a1dfa73cc010dfe2"
+    }
+  ],
+  "locktime": 5075762
+}
