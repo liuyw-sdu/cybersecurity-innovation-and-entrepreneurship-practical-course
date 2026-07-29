@@ -1,0 +1,7 @@
+plugins:
+  target_type: ollama
+  target_name: qwen3:0.6b
+
+reporting:
+  report_dir: /home/liuyw/
+  report_prefix: qwen3
